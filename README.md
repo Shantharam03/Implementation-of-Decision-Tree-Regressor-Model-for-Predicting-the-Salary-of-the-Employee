@@ -48,12 +48,16 @@ print(r2)
 dt.predict([[5,6]])
 */
 ```
-## Output:
 
-![Screenshot 2024-11-28 192801](https://github.com/user-attachments/assets/85d85b8a-d8c1-45e9-bbed-8a4015b9b3a9)
-![Screenshot 2024-11-28 192717](https://github.com/user-attachments/assets/3f1e9b5a-0759-4956-b42a-508ba948af9c)
-![Screenshot 2024-11-28 192839](https://github.com/user-attachments/assets/fa881966-912f-4d2e-8e34-cf3703ded169)
-![Screenshot 2024-11-28 193020](https://github.com/user-attachments/assets/635af721-68a6-4751-9f3f-e82e796dac12)
+## Output:
+![Screenshot 2024-11-28 230331](https://github.com/user-attachments/assets/f5856558-8f90-4e56-9d6c-e9380477de90)
+
+![Screenshot 2024-11-28 230339](https://github.com/user-attachments/assets/2bf6c7ac-29ec-4dd4-adca-332c5f16cb60)
+
+![Screenshot 2024-11-28 230346](https://github.com/user-attachments/assets/ab4d45e2-a389-40a1-93bd-3788e282605f)
+
+![Screenshot 2024-11-28 230404](https://github.com/user-attachments/assets/66bdb428-582b-445d-a42b-9c77776ced89)
+
 
 
 ## Result:
